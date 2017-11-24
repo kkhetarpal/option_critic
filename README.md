@@ -16,7 +16,9 @@ Here's a list of all dependencies:
 - cv2 (OpenCV)
 
 - Download the aleroms repo and keep in parent of this repo:
-  `git clone https://username@bitbucket.org/rllabmcgill/aleroms.git`
+```
+git clone https://username@bitbucket.org/rllabmcgill/aleroms.git
+```
 
 
 ## Training
