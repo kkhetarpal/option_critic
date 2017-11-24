@@ -27,6 +27,11 @@ To train, run following command:
 ```
 python train_q.py --rom pong --num-options 8 --folder-name pong_tempmodel
 ```
+or you might have to give
+```
+THEANO_FLAGS=floatX=float32 python2.7 train_q.py --rom pong --num-options 8 --folder-name pong_tempmodel
+```
+
 
 To view a list of available parameters, run:
 ```
